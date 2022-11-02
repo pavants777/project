@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "../c++"
+		},
+		{
+			"path": "../c"
+		},
+		{
+			"path": "../class and object"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"iomanip": "cpp",
+			"*.tcc": "cpp"
+		}
+	}
+}
